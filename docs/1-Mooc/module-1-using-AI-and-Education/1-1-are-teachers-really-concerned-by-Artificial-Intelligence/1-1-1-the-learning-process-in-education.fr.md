@@ -35,7 +35,7 @@ Une nouvelle question que l'on peut se poser est la suivante : *Le suivi de l'ac
 
 Puisque de nombreux capteurs et outils logiciels peuvent fournir des retours, des synthèses, des prédictions, des recommandations et des visualisations de toutes les analyses effectuées, pour optimiser les activités dans divers domaines. Pourquoi ne pas profiter de ces cadres technologiques de l'intelligence artificielle pour optimiser le domaine de l'éducation ?
 
-Dans ce contexte, nous proposons **"Une promenade en Intelligence artificielle", une série de 3 vidéos d'introduction** pour approfondir ces questions et explorer le rôle que l'intelligence artificielle, et plus spécifiquement l'analytique des apprentissage, peut jouer en éducation. Celles-ci sont communément définies comme l'observation, l'analyse et la visualisation des comportements numériques de l'apprenant dans son activité d'apprentissage en ligne.
+Dans ce contexte, nous proposons **"Une promenade en Intelligence artificielle", une série de 3 vidéos d'introduction** pour approfondir ces questions et explorer le rôle que l'intelligence artificielle, et plus spécifiquement l'analytique des apprentissages, peut jouer en éducation. Celles-ci sont communément définies comme l'observation, l'analyse et la visualisation des comportements numériques de l'apprenant dans son activité d'apprentissage en ligne.
 
 ## Vidéo n°1 : Une promenade à travers l'intelligence artificielle : Le processus d'apprentissage en éducation
 
